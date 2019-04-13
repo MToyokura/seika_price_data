@@ -8,3 +8,7 @@
 2. zip_extracter.py <- 取得したZIPを解凍する
 3. utf8_converter.py <- エンコードを元ファイルの "Shift JIS" から、"UTF-8" に変更する
 4. file_sorter.py <- 各都市別に振り分ける
+
+## データのダウンロード
+このコードで得られたデータを下のリンクからダウンロードできます。
+https://www.dropbox.com/s/x5xlqwa80lj0w5a/extracted_files_UTF8converted_sorted_ver1.01.zip?dl=0

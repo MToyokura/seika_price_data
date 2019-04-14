@@ -12,5 +12,5 @@
 (5. csv_to_db.py <- csvをsqlite3のデータベースとして保存する。https://immense-bastion-39201.herokuapp.com ではこれで作成したデータベースを使用している。)
 
 ## データのダウンロード
-このコードで得られたデータを下のリンクからダウンロードできます。
+このコードで得られたデータ(手順4までの、各都市別にCSVを分けたもの)を下のリンクからダウンロードできます。
 https://www.dropbox.com/s/x5xlqwa80lj0w5a/extracted_files_UTF8converted_sorted_ver1.01.zip?dl=0

@@ -4,10 +4,11 @@
 ## データ取得の順番
 以下の順番で実行するとデータが取得できると思います。
 
-1. monthly_scraper.py <- 各月のCSVをZIP形式で取得し保存する
-2. zip_extracter.py <- 取得したZIPを解凍する
-3. utf8_converter.py <- エンコードを元ファイルの "Shift JIS" から、"UTF-8" に変更する
-4. file_sorter.py <- 各都市別に振り分ける
+1. monthly_scraper.py <- 各月のCSVをZIP形式で取得し保存する。
+2. zip_extracter.py <- 取得したZIPを解凍する。
+3. utf8_converter.py <- エンコードを元ファイルの "Shift JIS" から、"UTF-8" に変更する。
+4. file_sorter.py <- 各都市別に振り分ける。
+(5. csv_to_db.py <- csvをsqlite3のデータベースとして保存する。https://immense-bastion-39201.herokuapp.com ではこれで作成したデータベースを使用している。)
 
 ## データのダウンロード
 このコードで得られたデータを下のリンクからダウンロードできます。

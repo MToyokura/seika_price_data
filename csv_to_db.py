@@ -88,7 +88,7 @@ for k_or_y in ['k', 'y']:
 
 # sqlite3での読み込み方
 # import sqlite3
-# conn = sqlite3.connect('seika_ver2.db')
+# conn = sqlite3.connect('seika_ver3.0.db')
 # c = conn.cursor()
 # a = c.execute('SELECT * FROM total_y LIMIT 10')
 # for i in a:

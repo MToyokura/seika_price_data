@@ -1,6 +1,8 @@
 # seika_price_data
 青果物卸売市場調査（日別調査）の2010年から2018年のデータを取得し、各都市別に分けるためのコードです。
 
+一つのコードにまとめた改良版を作りました→ [https://github.com/MToyokura/seika_price_scraper](https://github.com/MToyokura/seika_price_scraper)
+
 ## データ取得の順番
 以下の順番で実行するとデータが取得できると思います。
 
